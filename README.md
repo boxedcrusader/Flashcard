@@ -1,4 +1,4 @@
-# Flashcard App 🃏
+# Flashcard App
 
 A simple French-English flashcard app built with Python and Tkinter.
 Cards automatically flip from French to English after 3 seconds, then back again — helping you learn through repetition.
